@@ -1,7 +1,8 @@
-# if-first-semester
-First Year Resources Informatics, State University of Surabaya
+# if-unesa
+Informatics Resources, State University of Surabaya
 
-# course-list
-- [Sistem Digital](sistem-digital.md)
-- [Pemrograman Dasar](pemrograman-dasar.md)
-- [Pengantar Teknologi Informasi](pti.md)
+# by-year
+[first-year](first-year/README.md)
+[second-year](second-year/README.md)
+[third-year](third-year/README.md)
+[fourth-year](fourth-year/README.md)
