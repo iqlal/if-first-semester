@@ -6,3 +6,5 @@ Informatics Resources, State University of Surabaya
 - [second-year](second-year/README.md)
 - [third-year](third-year/README.md)
 - [fourth-year](fourth-year/README.md)
+
+![NCLSE](/path/to/img.jpg)
