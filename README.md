@@ -7,4 +7,4 @@ Informatics Resources, State University of Surabaya
 - [third-year](third-year/README.md)
 - [fourth-year](fourth-year/README.md)
 
-![NCLSE](https://github.com/iqlal/if-unesa/blob/main/logo.svg)
+![NCLSE](https://raw.githubusercontent.com/iqlal/if-unesa/main/logo.svg)
